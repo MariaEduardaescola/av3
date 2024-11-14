@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+header {
+    background-color: #E0AAFF;
+    color: #E0AAFF;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #000080;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #E0AAFF;
+    color: #000080;
+}
+
+.container {
+    text-align: center;
+}
+
+.pele-sensivel {
+    width: 500px;
+    height: auto;
+}
+
+.pele-acneica {
+    width: 500px;
+    height: auto;
+}
+
+.pele-normal-1 {
+    width: 500px;
+    height: auto;
+}
+
+.image-container {
+    display: flex;
+    gap: 15px;
+}
+
+.image-container img {
+    width: 350px;
+    height: auto;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #E6E6FA; /* Cor de fundo suave (cinza claro) */
+    color: #333333; /* Cor das letras (cinza escuro para melhor legibilidade) */
+    font-family: Arial, sans-serif; /* Fonte padrão para o texto */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #000080; /* Cor do título (verde) */
+    text-align: center; /* Alinha o título no centro */
+    margin-top: 50px; /* Espaço acima do título */
+}
+
+p {
+    font-size: 16px; /* Tamanho da fonte */
+    line-height: 1.6; /* Distância entre as linhas */
+    text-align: justify; /* Justifica o texto */
+    margin: 20px; /* Espaço ao redor dos parágrafos */
+}
+
+h2 {
+    color: #000080; /* Cor do título h2 (tom de vermelho) */
+    font-size: 24px; /* Tamanho da fonte do h2 */
+    margin-top: 30px;
+}
+
+p {
+    color: #E0AAFF; /* Cor do texto dos parágrafos (cinza mais suave) */
+    font-size: 16px; /* Tamanho da fonte */
+    line-height: 1.6; /* Distância entre as linhas de texto */
+    text-align: justify; /* Justifica o texto */
+    margin: 20px; /* Espaço ao redor dos parágrafos */
+}
